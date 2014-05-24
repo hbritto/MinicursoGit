@@ -2,7 +2,7 @@ Primeiro arquivo
 Hello GIT
 Editei o arquivo
 Novamente
-<<<<<<< HEAD
+
 
 
 
@@ -13,6 +13,5 @@ Novamente
 
 
 Linhas adicionadas no master
-=======
 Linhas adicionadas
->>>>>>> Linhas novas PrimeiroArquivo
+
